@@ -4,3 +4,10 @@ The supporting wordXXX scripts organize the words into categories
 The builder is very hard-coded.  No means to accept input to change  
 or limit sets of words or even filter words of a category set. For
 the time being, print only what's necessary.
+
+
+### Dependencies
+
+Package | Version
+------- | -------
+fpdf2   | 2.3.2
