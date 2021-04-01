@@ -22,7 +22,7 @@ Good = wl.WordList(wl.GOOD)
 Helpful = wl.WordList(wl.HELP)
 Sports = wl.WordList(wl.SPORTS)
 Touching = wl.WordList(wl.TOUCHING)
-Unhelpful = (wl._HELP)
+Unhelpful = wl.WordList(wl._HELP)
 
 
 # Return concatenated list of list(s)
